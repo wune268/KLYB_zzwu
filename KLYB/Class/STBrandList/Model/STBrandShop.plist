@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Apperley 艾柏琳(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Aptamil爱他美(英国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Auhibee 澳碧(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Aptamil爱他美(澳洲)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>澳倍佳</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>澳玛儿</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Aptamil爱他美(德国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>A</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Bon 本恩</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BMW 宝玛</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BERENTZEN 拜尔尼特(德国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BERENTZEN 宝施津(德国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BAYER 拜耳</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BLACKMORES 澳佳宝(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>BOIRON 布瓦宏</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>B</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>COW 牛牌（日本）</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>CAUDALIE 欧缇丽(法国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Clinie 可莱丝(韩国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>CLOUD9 九朵云 (韩国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Comvita 康维他(新西兰)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>C</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>DANMORE 丹牧(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dr.Rath</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>DIAFORCE 贵妇(韩国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>DOTFREE 多富丽(日本)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>DEXERYL 法国</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>DUTCHMILL 达美(泰国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>DUCRAY 护蕾(法国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>EAU PRECIEUSE</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>EBNSOL</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>EARTH&apos;S BEST 爱思贝(美国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Elevit 爱乐维</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>恩芝(韩国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>E</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Freezeframe</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>FatBlaster 菲拉思德(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Friso/美素佳儿 (荷兰)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>F</string>
+	</dict>
+	<dict>
+		<key>brand</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Gallo 公鸡(西班牙)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>G&amp;M 澳芝曼(澳大利亚)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Gummi King (美国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Guigoz 古戈氏(法国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>GLYSOMED 佳莉敏 (德国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>GALLIA 佳丽雅 (法国)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>广源良(台湾)</string>
+				<key>icon</key>
+				<string>default_02</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>G</string>
+	</dict>
+</array>
+</plist>

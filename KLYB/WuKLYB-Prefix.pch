@@ -1,0 +1,49 @@
+//
+//  WuKLYB-Prefix.pch
+//  KLYB
+//
+//  Created by ST on 15/12/29.
+//  Copyright © 2015年 ShengTang. All rights reserved.
+//
+
+#ifndef WuKLYB_Prefix_pch
+#define WuKLYB_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* WuKLYB_Prefix_pch */
+
+//#import <Availability.h>
+//
+//#ifndef __IPHONE_5_0
+//#warning "This project uses features only available in iOS SDK 5.0 and later."
+//#endif
+
+/************__OBJC__BEGIN************/
+// 里面的所有内容只能用到.m文件中或者.mm
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "MBProgressHUD+MJ.h"
+#import "UIImageView+WebCache.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "ZWKLYBHttpTool.h"
+
+#ifdef DEBUG  // 调试阶段
+#define WuLog(...) NSLog(__VA_ARGS__)
+#else // 发布阶段
+#define WuLog(...)
+#endif
+
+#define Screen_Width [UIScreen mainScreen].bounds.size.width
+#define Screen_Height [UIScreen mainScreen].bounds.size.height
+
+#define httpAddress [NSString stringWithFormat:@"http://www.klg100.com.cn/"]
+#define httpResourcesAddress [NSString stringWithFormat:@"http://www.klg100.com.cn/"]
+
+#endif
+/************__OBJC__END************/
+

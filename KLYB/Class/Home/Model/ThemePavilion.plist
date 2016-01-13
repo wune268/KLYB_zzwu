@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>mainText</key>
+		<string>母婴用品</string>
+		<key>describeTxet</key>
+		<string>安全健康的选择</string>
+		<key>icon</key>
+		<string>muying</string>
+	</dict>
+	<dict>
+		<key>mainText</key>
+		<string>保健品</string>
+		<key>describeTxet</key>
+		<string>为您的健康保驾护航</string>
+		<key>icon</key>
+		<string>jiushui</string>
+	</dict>
+	<dict>
+		<key>mainText</key>
+		<string>美容洗护</string>
+		<key>describeTxet</key>
+		<string>只要美白不要黑</string>
+		<key>icon</key>
+		<string>jiankangshipin</string>
+	</dict>
+	<dict>
+		<key>mainText</key>
+		<string>酒水饮品</string>
+		<key>describeTxet</key>
+		<string>品味格调尊享生活</string>
+		<key>icon</key>
+		<string>jiushui</string>
+	</dict>
+	<dict>
+		<key>mainText</key>
+		<string>健康食品</string>
+		<key>describeTxet</key>
+		<string>舌尖上的联合国</string>
+		<key>icon</key>
+		<string>jiankangshipin</string>
+	</dict>
+	<dict>
+		<key>mainText</key>
+		<string>生活日用</string>
+		<key>describeTxet</key>
+		<string>切近生活崇尚自然</string>
+		<key>icon</key>
+		<string>shenghuorichang</string>
+	</dict>
+</array>
+</plist>
